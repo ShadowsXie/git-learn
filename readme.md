@@ -2,4 +2,7 @@
 
 Git is free software distributed under the GPL
 
+
 git reset --hard HEAD^ 版本回退
+
+远程新增分支dev
